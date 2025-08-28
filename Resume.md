@@ -56,20 +56,20 @@ Data science graduate skilled in Python, SQL, and end-to-end ML workflows—data
 - Modeled **5** strategies; improved annualized return by **25%** vs. equal-weight baseline.  
 - Used **K-Means** on **100+** assets, optimizing Sharpe Ratio (**0.75**) and reducing **20%** drawdown.  
 - Visualized efficient frontier and CML to compare Monte Carlo and MPT volatility.
-- Link:[Project X GitHub Repository](https://github.com/Sruthi1203/portfolio-optimization-ml)
+- Link: [Project X GitHub Repository](https://github.com/Sruthi1203/portfolio-optimization-ml)
 
 ### Airline Customer Satisfaction Analysis  
 *Feb 2025 – Apr 2025 • Python, XGBoost, pandas, Logistic Regression*  
 - Processed **103,904** passenger records (**22** features); tuned **XGBoost** to reach **F1 = 0.89** (↑ **18%** over baseline).  
 - **SHAP** analysis surfaced top 5 dissatisfaction drivers; reduced false positives by **22%**; recommended interventions to lift CSAT by **15%**.
-- Link:[Project X GitHub Repository](https://github.com/Sruthi1203/Airline-Customer-Satisfaction)
+- Link: [Project X GitHub Repository](https://github.com/Sruthi1203/Airline-Customer-Satisfaction)
 
 ### Traffic Analysis using Object Tracking  
 *Jan 2025 – Mar 2025 • Apache Spark, Power BI, MongoDB, Python*  
 - Processed **75,000** crash images (**8.5 GB**) with metadata in Spark, cutting analysis time by **40%**.  
 - Identified high-risk zones by ego-vehicle involvement, visibility, and weather across **50K+** frames.  
 - Delivered Power BI dashboards with **6** key insights enabling smarter safety investments.
-- Link:Link:[Project X GitHub Repository](https://github.com/Sruthi1203/Car-Crash-Traffic-Analysis)
+- Link: [Project X GitHub Repository](https://github.com/Sruthi1203/Car-Crash-Traffic-Analysis)
 
 ---
 
