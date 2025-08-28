@@ -90,5 +90,5 @@ Coursework: Algorithms/Calculus, Software Engineering, Computer Architecture, OO
 
 ## Involvement
 - **Delegate Hyderabad, India • Model United Nations (MUN), India • September 2019**
-  - Demonstrated strong public speaking capabilities and ability to work with a large committee and won “Best Delegate” while representing the country of New Zealand dealing in the Middle Eastern Conflict..
+  - Demonstrated strong public speaking capabilities and ability to work with a large committee and won “Best Delegate” while representing the country of New Zealand dealing in the Middle Eastern Conflict.
 
