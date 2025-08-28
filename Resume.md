@@ -3,7 +3,7 @@
 ![Headshot](docs/headshot.png)
 
 
-- Email: sruthiprasad24@gmail.com
+- [Email](sruthiprasad2024@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sruthi-kapudasi/) 
 - [GitHub](https://github.com/Sruthi1203)
 
