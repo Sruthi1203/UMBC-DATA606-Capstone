@@ -3,8 +3,9 @@
 ![Headshot](docs/headshot.png)
 
 
-Email: sruthiprasad24@gmail.com • Phone: +1 (410) 558-7469  
-[LinkedIn](https://www.linkedin.com/in/sruthi-kapudasi/) • [GitHub](https://github.com/Sruthi1203)
+Email: sruthiprasad24@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sruthi-kapudasi/) 
+[GitHub](https://github.com/Sruthi1203)
 
 ---
 
@@ -55,22 +56,25 @@ Data science graduate skilled in Python, SQL, and end-to-end ML workflows—data
 - Modeled **5** strategies; improved annualized return by **25%** vs. equal-weight baseline.  
 - Used **K-Means** on **100+** assets, optimizing Sharpe Ratio (**0.75**) and reducing **20%** drawdown.  
 - Visualized efficient frontier and CML to compare Monte Carlo and MPT volatility.
+- Link:[Project X GitHub Repository](https://github.com/Sruthi1203/portfolio-optimization-ml)
 
 ### Airline Customer Satisfaction Analysis  
 *Feb 2025 – Apr 2025 • Python, XGBoost, pandas, Logistic Regression*  
 - Processed **103,904** passenger records (**22** features); tuned **XGBoost** to reach **F1 = 0.89** (↑ **18%** over baseline).  
 - **SHAP** analysis surfaced top 5 dissatisfaction drivers; reduced false positives by **22%**; recommended interventions to lift CSAT by **15%**.
+- Link:[Project X GitHub Repository](https://github.com/Sruthi1203/Airline-Customer-Satisfaction)
 
 ### Traffic Analysis using Object Tracking  
 *Jan 2025 – Mar 2025 • Apache Spark, Power BI, MongoDB, Python*  
 - Processed **75,000** crash images (**8.5 GB**) with metadata in Spark, cutting analysis time by **40%**.  
 - Identified high-risk zones by ego-vehicle involvement, visibility, and weather across **50K+** frames.  
 - Delivered Power BI dashboards with **6** key insights enabling smarter safety investments.
+- Link:Link:[Project X GitHub Repository](https://github.com/Sruthi1203/Car-Crash-Traffic-Analysis)
 
 ---
 
 ## Education
-**M.S., Data Science — University of Maryland, Baltimore County (UMBC)** — *Dec 2025*  
+**M.S., Data Science — University of Maryland, Baltimore County (UMBC)** — *Ongoing*  
 Coursework: Data Management, Big Data & Platforms, Machine Learning, Project Management, Financial Data Science
 
 **B.Tech, Computer Science & Engineering — Jawaharlal Nehru Technological University** — *May 2022*  
@@ -79,13 +83,13 @@ Coursework: Algorithms/Calculus, Software Engineering, Computer Architecture, OO
 ---
 
 ## Certifications
-- Orientation Advising — UMBC (*Dec 2024*)  
 - Google Cloud Computing Certificate — Google Cloud (*May 2024*)  
 - Introduction to Augmented Reality & ARCore — Coursera (*Jun 2020*)
 
 ---
 
-## Interests
-Digital art, snippets, mentoring, music, building data apps, exploring public datasets
+## Involvement
+*Delegate Hyderabad, India • Model United Nations (MUN), India • September 2019*
+Demonstrated strong public speaking capabilities and ability to work with a large committee and won “Best Delegate” while representing the country of New Zealand dealing in the Middle Eastern Conflict.
 
 ---
