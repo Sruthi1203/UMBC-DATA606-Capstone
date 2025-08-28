@@ -1,11 +1,10 @@
 # Sruthi Kapudasi
 
-![Headshot](docs/headshot.png)
+![Headshot](headshot.png)
 
 
-- [Email](sruthiprasad2024@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/sruthi-kapudasi/) 
-- [GitHub](https://github.com/Sruthi1203)
+- **Email:** [sruthiprasad2024@gmail.com](mailto:sruthiprasad2024@gmail.com) • **LinkedIn:** [sruthi-kapudasi](https://www.linkedin.com/in/sruthi-kapudasi/) • **GitHub:** [Sruthi1203](https://github.com/Sruthi1203)
+
 
 ---
 
