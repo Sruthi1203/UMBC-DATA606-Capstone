@@ -9,7 +9,7 @@
 ---
 
 ## Summary
-Data science graduate skilled in Python, SQL, and end-to-end ML workflows—data collection/cleaning, feature engineering, model training/tuning, and clear communication with visuals and reports. Comfortable working with large datasets, collaborating with cross-functional teams, and delivering actionable insights.
+Data science graduate skilled in Python, SQL, and end-to-end ML workflows—data collection/cleaning, feature engineering, model training/tuning, and clear communication with visuals and reports. Comfortable working with large datasets, collaborating with cross-functional teams, and turning analysis into actions.
 
 ---
 ## Education
