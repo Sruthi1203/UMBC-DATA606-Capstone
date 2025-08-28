@@ -1,6 +1,6 @@
 # Sruthi Kapudasi
 
-![Headshot](docs/headshot.jpeg)
+![Headshot](docs/headshot.png)
 
 
 Email: sruthiprasad24@gmail.com • Phone: +1 (410) 558-7469  
