@@ -3,9 +3,9 @@
 ![Headshot](docs/headshot.png)
 
 
-Email: sruthiprasad24@gmail.com
-[LinkedIn](https://www.linkedin.com/in/sruthi-kapudasi/) 
-[GitHub](https://github.com/Sruthi1203)
+- Email: sruthiprasad24@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sruthi-kapudasi/) 
+- [GitHub](https://github.com/Sruthi1203)
 
 ---
 
@@ -89,7 +89,6 @@ Coursework: Algorithms/Calculus, Software Engineering, Computer Architecture, OO
 ---
 
 ## Involvement
-*Delegate Hyderabad, India • Model United Nations (MUN), India • September 2019*
-Demonstrated strong public speaking capabilities and ability to work with a large committee and won “Best Delegate” while representing the country of New Zealand dealing in the Middle Eastern Conflict.
+- **Delegate Hyderabad, India • Model United Nations (MUN), India • September 2019**
+  - Demonstrated strong public speaking capabilities and ability to work with a large committee and won “Best Delegate” while representing the country of New Zealand dealing in the Middle Eastern Conflict..
 
----
