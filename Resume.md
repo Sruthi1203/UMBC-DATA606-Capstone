@@ -13,12 +13,12 @@
 Data science graduate skilled in Python, SQL, and end-to-end ML workflows—data collection/cleaning, feature engineering, model training/tuning, and clear communication with visuals and reports. Comfortable working with large datasets, collaborating with cross-functional teams, and delivering actionable insights.
 
 ---
+## Education
+**M.S., Data Science — University of Maryland, Baltimore County (UMBC)** — *Ongoing*  
+Coursework: Data Management, Big Data & Platforms, Machine Learning, Project Management, Financial Data Science
 
-## Skills
-- **Programming:** Python, SQL, Java, C++, JavaScript, R, MATLAB  
-- **Data/ML Tools:** scikit-learn, Matplotlib, Tableau, AWS, STATA, MS SQL Server  
-- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB, Relational DB design  
-- **Software/Tools:** Git/GitHub, JIRA, Excel, MS Office, Android Studio, Canva
+**B.Tech, Computer Science & Engineering — Jawaharlal Nehru Technological University** — *May 2022*  
+Coursework: Algorithms/Calculus, Software Engineering, Computer Architecture, OOP, SDLC
 
 ---
 
@@ -46,7 +46,22 @@ Data science graduate skilled in Python, SQL, and end-to-end ML workflows—data
 *Dec 2021 – May 2022*  
 - Completed Gen C learning program (QEA Basics) with high scores; built **3+** Selenium web-automation projects.  
 - Applied Agile practices to cut average issue resolution time by **20%**; scored **96** on Integrated Capability Tests (ICT).
+  
+---
 
+## Certifications
+- Google Cloud Computing Certificate — Google Cloud (*May 2024*)  
+- Introduction to Augmented Reality & ARCore — Coursera (*Jun 2020*)
+  
+---
+
+
+## Skills
+- **Programming:** Python, SQL, Java, C++, JavaScript, R, MATLAB  
+- **Data/ML Tools:** scikit-learn, Matplotlib, Tableau, AWS, STATA, MS SQL Server  
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB, Relational DB design  
+- **Software/Tools:** Git/GitHub, JIRA, Excel, MS Office, Android Studio, Canva
+  
 ---
 
 ## Projects
@@ -71,22 +86,7 @@ Data science graduate skilled in Python, SQL, and end-to-end ML workflows—data
 - Delivered Power BI dashboards with **6** key insights enabling smarter safety investments.
 - Link: [Project X GitHub Repository](https://github.com/Sruthi1203/Car-Crash-Traffic-Analysis)
 
----
-
-## Education
-**M.S., Data Science — University of Maryland, Baltimore County (UMBC)** — *Ongoing*  
-Coursework: Data Management, Big Data & Platforms, Machine Learning, Project Management, Financial Data Science
-
-**B.Tech, Computer Science & Engineering — Jawaharlal Nehru Technological University** — *May 2022*  
-Coursework: Algorithms/Calculus, Software Engineering, Computer Architecture, OOP, SDLC
-
----
-
-## Certifications
-- Google Cloud Computing Certificate — Google Cloud (*May 2024*)  
-- Introduction to Augmented Reality & ARCore — Coursera (*Jun 2020*)
-
----
+  ---
 
 ## Involvement
 - **Delegate Hyderabad, India • Model United Nations (MUN), India • September 2019**
