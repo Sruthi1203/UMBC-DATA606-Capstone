@@ -12,7 +12,7 @@
 
 **LinkedIn Profile:** https://www.linkedin.com/in/sruthi-kapudasi/
 
-**PowerPoint Presentation:** 
+**PowerPoint Presentation:** https://1drv.ms/p/c/adc96775138c6f23/Eb3UQikATjhAuOKxIAfoBqUBQM5KsEkwXa7WNBDljEiJvQ?e=INFV5L
 
 ---
 
