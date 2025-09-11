@@ -1,9 +1,10 @@
 
-# UMBC DATA606 Capstone –  Retail Analytics & Forecasting
+# UMBC DATA606 Capstone –  Retail Analytics and Forecasting – a Machine Learning Approach
 
-**Project Title:** Optimizing Retail Assortment, Planograms, and Demand Forecasting using Walmart Sales Data  
 
-**Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang  
+**Project Preface:** Optimizing Retail Assortment, Planograms, and Demand Forecasting using Walmart Sales Data  
+
+**Prepared for:** Dr. Chaojie (Jay) Wang  
 
 **Author:** Sruthi Kapudasi 
 
@@ -47,8 +48,8 @@ Accurate assortment and planogram decisions directly impact:
 ## Research Questions
 
 1. **Can Walmart’s product assortment be improved?**  
-2. **How can planograms be dynamically generated based on linear feet and shelf constraints?**  
-3. **Can machine learning methods (ARIMA/XGBoost) reliably forecast demand for the next 12 months?**  
+2. **How can we restructure planograms efficiently?**  
+3. **Can machine learning methods reliably forecast demand for the next 12 months?**  
 4. **What’s the P&L impact with the updated assortment?**  
 
 ---
@@ -59,8 +60,8 @@ Accurate assortment and planogram decisions directly impact:
 - **Walmart Sales Dataset** (From Kaggle) : https://www.kaggle.com/datasets/ankitrajmishra/walmart: 5000 rows x 28 columns
 
 ### Data Overview:
-- **Dataset size:** ~5,000 rows, ~600 KB  
-- **Shape:** 5,000 rows × 18 columns  
+- **Dataset size:** ~5,000 rows
+- **Shape:** 5,000 rows × 28 columns  
 - **Time period:** Transactions across a year (2024)  
 - **Observation unit:** Each row represents a sales transaction for a product  
 
