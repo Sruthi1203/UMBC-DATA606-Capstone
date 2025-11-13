@@ -18,20 +18,20 @@
 
 ## Background
 
-Retailers like Walmart manage thousands of products across diverse departments and must balance **inventory, shelf space, and customer demand** to stay profitable. Poor assortment choices, inefficient shelf layouts (planograms), or inaccurate demand forecasts can lead to **stockouts, overstocks, and revenue loss**.  
+This project focuses on analyzing Walmart’s transaction-level retail data from **January–September 2024** to understand product performance, customer behavior, and the impact of promotions, holidays, and weather.  
+The primary objective is to build a **time-series forecasting model** that predicts **sales for next year** at a **product × store** level.
 
-This project leverages Walmart sales data to perform **assortment analysis, planogram optimization, demand forecasting, and profit simulations** to support better decision-making for inventory and merchandising teams.  
 
 ---
 
 ## Project Objective
 
-The goal of this project is to design a **data-driven retail analytics system** that can:  
-1. Identify **top and bottom performers** in each department.  
-2. Recommend **optimized assortments** that maximize sales and minimize low-sellers.  
-3. Generate **dynamic planograms (POGs)** based on store shelf constraints.  
-4. Forecast **monthly demand for the next 12 months** using ML models.  
-5. Simulate **Profit & Loss (P&L)** outcomes under different assortment and forecast scenarios.  
+The goal of this project is to get accurate sales forecasting helps retail managers make decisions on:
+- Inventory planning & replenishment  
+- Promotion strategy  
+- Reducing stockouts  
+- Understanding customer purchasing patterns  
+- Improving operational efficiency 
 
 ---
 
@@ -47,10 +47,11 @@ Accurate assortment and planogram decisions directly impact:
 
 ## Research Questions
 
-1. **Can Walmart’s product assortment be improved?**  
-2. **How can we restructure planograms efficiently?**  
-3. **Can machine learning methods reliably forecast demand for the next 12 months?**  
-4. **What’s the P&L impact with the updated assortment?**  
+1. Which product categories, stores, and products are top/bottom performers?  
+2. How do promotions, holidays, customer loyalty, and weather influence sales?  
+3. Can we forecast weekly sales demand for  2025 using  2024 data?  
+4. What are the most important features that drive retail demand?  
+5. Can a store owner use this model to plan inventory and reduce out-of-stock events? 
 
 ---
 
@@ -67,26 +68,37 @@ Accurate assortment and planogram decisions directly impact:
 
 ### Column Data Types and Dictionary
 
-| Column Name | Data Type | Definition | Example Values |
-|-------------|-----------|------------|----------------|
-| transaction_date | datetime | Timestamp of transaction | 2024-03-31 21:46 |
-| product_id | int | Unique identifier for product | 843 |
-| product_name | string | Product description | Fridge, TV |
-| category | string | Product department/category | Electronics |
-| quantity_sold | int | Units sold in transaction | 3 |
-| unit_price | float | Retail price of product | 499.28 |
-| inventory_level | int | Current available stock | 412 |
-| reorder_point | int | Stock threshold to reorder | 99 |
-| reorder_quantity | int | Quantity ordered when triggered | 177 |
-| stockout_indicator | bool | True if item stocked out | True |
-| promotion_applied | bool | True if promotion applied | False |
-| promotion_type | string | Promotion type (if any) | Percentage Discount |
-| holiday_indicator | bool | Transaction during holiday | True |
-| weather_conditions | string | Weather context | Sunny, Rainy |
-| customer_id | int | Unique identifier for customer | 4657 |
-| customer_loyalty_level | string | Customer loyalty tier | Silver |
-| payment_method | string | Mode of payment | Credit Card |
-| sales_value | float | Transaction sales value | 3052.72 |
+
+| Column Name | Data Type | Description | Example Values |
+|-------------|-----------|-------------|----------------|
+| `product_id` | int/string | Unique product identifier | 101, 202 |
+| `product_name` | string | Name of the product | "Organic Apples" |
+| `category` | string | Product category | "Grocery", "Electronics" |
+| `quantity_sold` | int | Units sold in the transaction | 1, 3 |
+| `unit_price` | float | Price per unit | 4.99 |
+| `transaction_date` | datetime | Date of purchase | 2024-03-15 |
+| `store_id` | int/string | Store identifier | 5, "NY03" |
+| `store_location` | string | City or region of store | "Houston", "Dallas" |
+| `inventory_level` | int | Inventory available at time of sale | 120 |
+| `reorder_quantity` | int | Next reorder quantity | 40 |
+| `supplier_lead_time` | int | Days required to restock | 7 |
+| `customer_age` | int | Age of customer | 34 |
+| `customer_gender` | string | Gender | "M", "F" |
+| `customer_income` | float | Annual income | 55000 |
+| `customer_loyalty_level` | string | Loyalty tier | "Silver", "Gold" |
+| `payment_method` | string | Mode of payment | "Card", "Cash" |
+| `promotion_applied` | int (0/1) | Whether promo used | 0, 1 |
+| `promotion_type` | string | Type of promotion | "BOGO", "PriceCut" |
+| `weather_conditions` | string | Weather during purchase | "Sunny", "Rainy" |
+| `holiday_indicator` | int (0/1) | If purchase was on a holiday | 0, 1 |
+| `weekday` | int | Day number | 1–7 |
+| `stockout_indicator` | int (0/1) | Whether product was stocked-out | 0, 1 |
+| `year` | int | Extracted year | 2024 |
+| `month` | int | Month of year | 1–12 |
+| `day` | int | Day of month | 1–31 |
+| `dayofweek` | int | Numeric weekday | 0–6 |
+| `is_weekend` | int | Weekend flag | 0, 1 |
+| `cost_of_goods` | float | Derived feature = quantity × price | 15.75 |
 
 ---
 
@@ -97,9 +109,8 @@ Accurate assortment and planogram decisions directly impact:
   - Target: `quantity_sold` aggregated at product/department level  
   - Features: `promotion_applied`, `holiday_indicator`, `weather_conditions`, `unit_price`, lagged sales  
 
-**Secondary Tasks:**
-- **Assortment Optimization** → Identify low-sellers (bottom performers) and recommend assortment refinement  
-- **Planogram Simulation** → Use `linear feet`, `shelves`, and `facings` to allocate products  
+This becomes the **label (y)** for all machine learning models.
+
 
 ---
 
