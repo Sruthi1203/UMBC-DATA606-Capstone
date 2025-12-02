@@ -14,6 +14,8 @@
 
 **PowerPoint Presentation:** https://1drv.ms/p/c/adc96775138c6f23/Eb3UQikATjhAuOKxIAfoBqUBQM5KsEkwXa7WNBDljEiJvQ?e=INFV5L
 
+**Youtube Link:** https://youtu.be/K85N9Bf_TpQ
+
 ---
 
 ## Background
