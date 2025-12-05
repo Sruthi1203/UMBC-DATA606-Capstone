@@ -37,8 +37,7 @@ The primary objectives of this project are to:
 ## 2. Data Sources
 
 ### 2.1 Dataset Description
-- **Source:** Walmart Sales Transaction Data (January - September 2024)
--      **Walmart Sales Dataset** (From Kaggle) : https://www.kaggle.com/datasets/ankitrajmishra/walmart: 5000 rows x 28 columns
+- **Source:** Walmart Sales Transaction Data (January - September 2024) [View Dataset](https://www.kaggle.com/datasets/ankitrajmishra/walmart)
 - **Size:** 5,000 transactions
 - **Time Period:** 9 months (273 days)
 - **Products:** 8 products across 2 categories
