@@ -1,7 +1,7 @@
 # Retail Analytics and Forecasting - a Machine Learning Approach
 
 **Author:** Sruthi Kapudasi  
-**Semester:** Fall 2024  
+**Semester:** Fall 2025  
 **Institution:** University of Maryland, Baltimore County (UMBC)
 
 ---
