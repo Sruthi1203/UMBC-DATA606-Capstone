@@ -132,9 +132,6 @@ The dataset was collected from Walmart's point-of-sale systems, capturing daily 
 - Gold level has lowest revenue despite similar average spending → **growth opportunity**
 - Platinum level has highest member count and revenue → **retention priority**
 
-### 4.5 Store Location Analysis
-*(Include if store-specific data available)*
-
 ---
 
 ## 5. Machine Learning Models
