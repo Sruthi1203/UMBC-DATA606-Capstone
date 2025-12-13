@@ -8,7 +8,7 @@
 
 ##  Links
 
-- **YouTube Presentation:** [Watch Video](https://youtu.be/K85N9Bf_TpQ)
+- **YouTube Presentation:** [Watch Video](https://youtu.be/Tgbitau6uX8)
 - **GitHub Repository:** [Project Repository](https://github.com/Sruthi1203/UMBC-DATA606-Capstone)
 - **Live Dashboard:** [Streamlit App](https://umbc-data606-capstone-sruthi-kapudasi-walmart-sales.streamlit.app)
 
