@@ -11,6 +11,7 @@
 - **YouTube Presentation:** [Watch Video](https://youtu.be/Tgbitau6uX8)
 - **GitHub Repository:** [Project Repository](https://github.com/Sruthi1203/UMBC-DATA606-Capstone)
 - **Live Dashboard:** [Streamlit App](https://umbc-data606-capstone-sruthi-kapudasi-walmart-sales.streamlit.app)
+- **PPT presentation:** [Project Presentation](https://github.com/Sruthi1203/UMBC-DATA606-Capstone/blob/main/Capstone%20Retail%20Analytics.pptx)
 
 ---
 
@@ -37,9 +38,9 @@ The primary objectives of this project are to:
 ## 2. Data Sources
 
 ### 2.1 Dataset Description
-- **Source:** Walmart Sales Transaction Data (January - September 2024) [View Dataset](https://www.kaggle.com/datasets/ankitrajmishra/walmart)
+- **Source:** Kaggle Walmart Sales Transaction Data (January - September 2024) [View Dataset](https://www.kaggle.com/datasets/ankitrajmishra/walmart)
 - **Size:** 5,000 transactions
-- **Time Period:** 9 months (273 days)
+- **Time Period:** 9 months
 - **Products:** 8 products across 2 categories
 - **Geographic Coverage:** Multiple store locations
 
@@ -83,7 +84,7 @@ The dataset was collected from Walmart's point-of-sale systems, capturing daily 
 - **Missing Values:** None detected after data cleaning
 - **Duplicates:** 0 duplicate transactions
 - **Outliers:** Identified and retained (represent legitimate high-value sales)
-- **Data Consistency:** Categories standardized (resolved Laptop appearing in both Electronics and Appliances)
+- **Data Consistency:** Categories standardized
 
 ### 4.2 Temporal Patterns
 
@@ -219,7 +220,7 @@ Selected features based on correlation analysis and domain knowledge:
 
 | Model | MAE (Lower=Better) | MAPE | R² | Recommendation |
 |-------|-------------------|------|-----|----------------|
-| **Linear Regression** | **$1,892** ✅ | 177% | 0.039 | **SELECTED** |
+| **Linear Regression** | **$1,892** | 177% | 0.039 | **SELECTED** |
 | Ridge Regression | $1,892 | 177% | 0.039 | Equivalent |
 | Gradient Boosting | $2,116 | 200% | -0.18 | Not recommended |
 | SARIMA | $778,133 | 84% | N/A | Unsuitable |
