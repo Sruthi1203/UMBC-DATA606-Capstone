@@ -2,7 +2,9 @@
 
 **Author:** Sruthi Kapudasi  
 **Semester:** Fall 2025  
+**Professor:** Dr. Chaojie (Jay) Wang  
 **Institution:** University of Maryland, Baltimore County (UMBC)
+
 
 ---
 
