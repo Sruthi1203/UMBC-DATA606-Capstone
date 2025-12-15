@@ -12,6 +12,7 @@
 
 - **YouTube Presentation:** [Watch Video](https://youtu.be/Tgbitau6uX8)
 - **GitHub Repository:** [Project Repository](https://github.com/Sruthi1203/UMBC-DATA606-Capstone)
+- **LinkedIn Profile:** [Sruthi LinkedIn](https://www.linkedin.com/in/sruthi-kapudasi/)  
 - **Live Dashboard:** [Streamlit App](https://umbc-data606-capstone-sruthi-kapudasi-walmart-sales.streamlit.app)
 - **PPT presentation:** [Project Presentation](https://github.com/Sruthi1203/UMBC-DATA606-Capstone/blob/main/Capstone%20Retail%20Analytics.pptx)
 
